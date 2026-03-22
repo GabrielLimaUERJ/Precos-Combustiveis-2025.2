@@ -88,5 +88,5 @@ Por questões de tamanho, o arquivo completo não foi incluído no repositório.
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repo.git
-cd seu-repo
+git clone https://github.com/GabrielLimaUERJ/Precos-Combustiveis-2025.2.git
+cd Precos-Combustiveis-2025.2
