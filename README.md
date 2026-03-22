@@ -90,3 +90,5 @@ Por questões de tamanho, o arquivo completo não foi incluído no repositório.
 ```bash
 git clone https://github.com/GabrielLimaUERJ/Precos-Combustiveis-2025.2.git
 cd Precos-Combustiveis-2025.2
+pip install -r requirements.txt
+streamlit run app.py
