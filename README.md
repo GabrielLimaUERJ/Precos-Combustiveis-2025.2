@@ -1,6 +1,6 @@
 # ⛽ Análise de Preços de Combustíveis no Brasil no Segundo Semestre de 2025
 
-Projeto de análise de dados utilizando SQL, Python e visualização em dashboard para identificar padrões de preços de combustíveis no Brasil ao longo do tempo.
+Projeto de análise de dados utilizando SQL e Python, com desenvolvimento de um dashboard interativo em Streamlit para exploração dos dados.
 
 ---
 
@@ -15,12 +15,24 @@ Analisar o comportamento dos preços de combustíveis no Brasil, identificando:
 
 ---
 
+## 📊 Dashboard Interativo
+
+O projeto conta com um dashboard desenvolvido em Streamlit, permitindo:
+
+- filtragem por estado
+- filtragem por tipo de combustível
+- visualização dinâmica de métricas
+- análise interativa dos dados
+
+---
+
 ## 🛠️ Tecnologias
 
 - MySQL (armazenamento e consultas)
 - Python (Pandas)
-- Looker Studio (visualização)
 - SQL
+- Streamlit (dashboard interativo)
+- Matplotlib
 
 ---
 
@@ -35,9 +47,9 @@ Dados públicos de preços de combustíveis contendo:
 
 O dataset utilizado neste projeto é público e pode ser obtido em:
 
-[[dados.gov](https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp)]
+[dados.gov.br - Série histórica de preços de combustíveis](https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp)
 
-Por questões de tamanho, o arquivo não foi incluído no repositório.
+Por questões de tamanho, o arquivo completo não foi incluído no repositório.
 
 ---
 
@@ -71,9 +83,10 @@ Por questões de tamanho, o arquivo não foi incluído no repositório.
 
 ---
 
-## ▶️ Como executar (Python)
+## ▶️ Como executar
 
-1. Instale as dependências:
+1. Clone o repositório:
 
 ```bash
-pip install pandas mysql-connector-python
+git clone https://github.com/seu-usuario/seu-repo.git
+cd seu-repo
