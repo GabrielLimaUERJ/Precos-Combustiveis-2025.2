@@ -1,4 +1,4 @@
-# ⛽ Análise de Preços de Combustíveis no Brasil
+# ⛽ Análise de Preços de Combustíveis no Brasil no Segundo Semestre de 2025
 
 Projeto de análise de dados utilizando SQL, Python e visualização em dashboard para identificar padrões de preços de combustíveis no Brasil ao longo do tempo.
 
