@@ -71,3 +71,11 @@ Dados públicos de preços de combustíveis contendo:
 
 ```bash
 pip install pandas mysql-connector-python
+
+## 📊 Dataset
+
+O dataset utilizado neste projeto é público e pode ser obtido em:
+
+[[link aqui](https://dados.gov.br/dados/conjuntos-dados/serie-historica-de-precos-de-combustiveis-e-de-glp)]
+
+Por questões de tamanho, o arquivo não foi incluído no repositório.
