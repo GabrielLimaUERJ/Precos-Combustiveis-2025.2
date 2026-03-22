@@ -71,12 +71,6 @@ Por questões de tamanho, o arquivo não foi incluído no repositório.
 
 ---
 
-## 📊 Dataset
-
-
-
----
-
 ## ▶️ Como executar (Python)
 
 1. Instale as dependências:
